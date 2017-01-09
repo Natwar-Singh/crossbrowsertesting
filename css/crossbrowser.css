@@ -1,0 +1,116 @@
+#outer{
+	display: flex;
+}
+#sidebar{
+	width: 30%;
+	background-color:#555555
+}
+H3{
+	text-align: center;
+	margin:0px;
+	margin-top: 20px;
+}
+H1{
+	text-align: center;
+	margin:0px;
+	
+}
+
+select{
+	margin: auto;
+	border: none;
+	width: 100px;
+	height: 50px;
+	display: block;
+
+}
+input{
+	margin: auto;
+	width: 200px;
+	height: 50px;
+	display: block;
+	
+
+}
+#rightbar{
+	width: 70%;
+	background-color: #593C1F;
+	position: relative;
+}
+button{
+	margin: auto;
+	border: none;
+	width: 100px;
+	height: 50px;
+	display: block;
+	margin-top: 20px;
+}
+#nexus5{
+	margin:auto;
+	display: block;
+	height: 520;
+	width: 261;
+	display: none;
+}
+
+#framenxs5{
+	width: 187px;
+	height: 337px;
+	position: absolute;
+	left:378px;
+	top: 70px;
+	display: none;
+}
+#motog{
+	margin:auto;
+	display: block;
+	height: 520;
+	width: 261;
+	display: none;
+	
+}
+#framemotog{
+	width: 219px;
+	height: 347px;
+	position: absolute;
+	left:363px;
+	top: 65px;
+	border: none;
+	display: none;
+}
+#iphone6{
+	margin:auto;
+	display: block;
+	height: 520px;
+	width: 520px;
+	
+}
+#frameiphone6{
+	width: 228px;
+	height: 400px;
+	position: absolute;
+	left:360px;
+	top: 61px;
+	border: none;
+}
+#iphone5{
+	margin:auto;
+	display: block;
+	height: 520px;
+	width: 290px;
+	display: none;
+	
+}
+#frameiphone5{
+	width: 248px;
+	height: 352px;
+	position: absolute;
+	left:350px;
+	top: 95px;
+	border: none;
+	display: none;
+}
+#bottom{
+	background-color: #222222;
+	padding: 60px;
+}
